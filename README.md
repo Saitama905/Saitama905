@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Olcha.uz**
 
-- 🌱 I’m currently learning **Java, Kotlin, Android development , HTML , CSS**
+- 🌱 I’m currently learning **Java, Kotlin, Android development, HTML, CSS, SCSS**
 
 - 🤝 I’m looking for **job offers**
 
