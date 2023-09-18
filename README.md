@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+MOON👨‍💻&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+MOON🌚&center=true&size=30">
   </a>
 </h1>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **inst:arnold1.me**
 
-<h3 align="left">Connect with me: 💋 </h3>
+<h3 align="left">Connect with me: 🍒 </h3>
 <p align="left">
 </p>
 
