@@ -14,9 +14,9 @@
 
 - 🤝 I’m looking for **job offers**
 
-- 📫 How to reach me **inst:arnold1.me**
+- 📫 How to reach me **inst:moon1.me**
 
-<h3 align="left">Connect with me: 🍒 </h3>
+<h3 align="left">Connect with me: inst:moon1.me </h3>
 <p align="left">
 </p>
 
