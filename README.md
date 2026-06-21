@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Oybek;Software+Engineer+🚀;Android+%26+Backend+Developer;Always+Learning+New+Things&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Oybek;Machine+Learning+Engineer+🚀;Computer+Science+Student;Always+Learning+New+Things&center=true&size=30">
 </h1>
 
-<h3 align="center">💻 Software Engineer from Uzbekistan 🇺🇿</h3>
+<h3 align="center">🤖 Machine Learning Enthusiast | Computer Science Student from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+views&color=0e75b6&style=flat" />
+  <a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -14,22 +14,23 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Currently working on **Olcha.uz**
-- 🌱 Learning **Java, Kotlin, Android Development**
-- 💡 Interested in **Backend & Mobile Development**
-- 🎯 Goal: Become a **strong Software Engineer**
-- ⚡ Fun fact: I solve problems even in my sleep 😄
+- 🎓 Computer Science student at **INHA University in Tashkent**
+- 🧠 Currently studying **Machine Learning, Data Science, and Artificial Intelligence**
+- 💻 Passionate about solving real-world problems with data and AI
+- 📚 Learning **Python, SQL, Scikit-learn, PyTorch, and MLOps**
+- 🎯 Goal: Become a **Machine Learning Engineer**
+- 🚀 Always building projects and improving my skills
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oybek-nortojiyev-593a073b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://instagram.com/moon1.me">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -38,30 +39,72 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,android,python,cpp,html,css,flutter,dart,postgres,mysql,git,figma,postman" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,linux,postgres,mysql,vscode,figma" />
 </p>
+
+### Machine Learning
+
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- PyTorch (Learning)
+- TensorFlow (Learning)
+
+### Databases
+
+- PostgreSQL
+- MySQL
+
+### Tools
+
+- Git
+- Linux
+- Jupyter Notebook
+- VS Code
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Current Focus
+## 🚀 Current Focus
 
 ```text
-📱 Android Development (Kotlin)
-⚙️ Backend Development
-🧠 Data Structures & Algorithms
+🧠 Machine Learning
+📊 Data Science
+🐍 Python
+🗄️ SQL
+🤖 Scikit-learn
+🔥 PyTorch
+⚡ MLOps (Learning)
+📈 Recommendation Systems
+```
+
+---
+
+## 📌 Featured Projects
+
+- 🏠 House Price Prediction
+- 🎬 Movie Recommendation System
+- 👥 Customer Churn Prediction
+- ❤️ Heart Disease Prediction
+- 📈 Exploratory Data Analysis (EDA)
+
+---
+
+> *"Learning today. Building intelligent systems for tomorrow."* 🚀
