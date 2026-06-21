@@ -4,12 +4,6 @@
 
 <h3 align="center">🤖 Machine Learning Enthusiast | Computer Science Student from Uzbekistan 🇺🇿</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
